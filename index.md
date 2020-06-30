@@ -2,4 +2,4 @@
 layout: default
 title: Home
 ---
-### Coming soon
+# Coming soon
