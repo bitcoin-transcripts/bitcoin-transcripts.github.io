@@ -4,4 +4,6 @@ title: Home
 ---
 # -> Coming soon
 
-Until this site is up you can view Bitcoin transcripts at https://diyhpl.us/wiki/transcripts/ and follow @btctranscripts on Twitter.
+Bitcoin transcripts are currently accessible at https://diyhpl.us/wiki/transcripts/.
+
+You can follow Bitcoin Transcripts on Twitter @btctranscripts.
